@@ -9,6 +9,12 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/goodbyebada">
+        <img src="https://github.com/goodbyebada.png" width="150"><br>
+        <b>@goodbyebada</b>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hyeonbinHur">
         <img src="https://github.com/hyeonbinHur.png" width="150"><br>
         <b>@hyeonbinHur</b>
